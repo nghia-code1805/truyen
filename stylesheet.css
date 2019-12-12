@@ -1,0 +1,72 @@
+body{
+
+}
+
+.home{
+    height: 150px;
+    width: 100%;
+    background: gold;
+    margin-bottom: 5px;
+}
+.logo{
+    left: 50px;
+    bottom: 50px;
+    position: relative;
+}
+.search01{
+    height: 30px;
+    border: solid 1px brown;
+    border-radius: 15px;
+    left: 800px;
+    top: 50px;
+    position: relative;
+}
+.button{
+    height: 40px;
+    width: 100%;
+    background: chartreuse;
+}
+a{
+    float: left;
+    padding: 10px 30px 10px 15px;
+}
+.truyentop{
+    height: 30px;
+    width: 160px;
+    background: red;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-family: "Times New Roman";
+    color: aliceblue;
+}
+.left{
+    height: 250px;
+    width: 160px;
+    background: chartreuse;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: "Times New Roman";
+    float: left;
+}
+.body{
+    height: 700px;
+    width: 80%;
+    background: cadetblue;
+    float: left;
+    margin-left: 50px;
+}
+.img01{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.img02{
+    margin-top: 30px;
+}
+.img03{
+    margin-top: 30px;
+}
+.img04{
+    margin-left: 50px;
+    margin-top: 70px;
+}
